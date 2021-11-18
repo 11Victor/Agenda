@@ -213,7 +213,7 @@ Agora, abra o browser(Google, etc) e entre no seguinte link: http://localhost:80
 ---
 <br>
 
-## ✔Consultar Compromisso Futuro-> http://localhost:8080/agenda/futuro/1999-09-20
+## ✔Consultar Compromissos Futuros-> http://localhost:8080/agenda/futuro/1999-09-20
 ### 1. Click em agenda-controller
 ---
 
@@ -231,7 +231,7 @@ Agora, abra o browser(Google, etc) e entre no seguinte link: http://localhost:80
 ---
 <br>
 
-## ✔Consultar Compromisso Passado-> http://localhost:8080/agenda/passado/1999-09-25
+## ✔Consultar Compromissos Passados -> http://localhost:8080/agenda/passado/1999-09-25
 ### 1. Click em agenda-controller
 ---
 
@@ -249,7 +249,7 @@ Agora, abra o browser(Google, etc) e entre no seguinte link: http://localhost:80
 ---
 <br>
 
-## ✔Consultar Compromisso pelo Nome -> http://localhost:8080/agenda/nome/heroku
+## ✔Consultar Compromissos pelo Nome -> http://localhost:8080/agenda/nome/heroku
 ### 1. Click em agenda-controller
 ---
 
