@@ -90,7 +90,7 @@ mvnw spring-boot:run
 
 ## 🎮Getting Started
 
-Now, open your browser and navigate to: http://localhost:8080
+Agora, abra o browser(Google, etc) e entre no seguinte link: http://localhost:8080
 
 <br>
 
