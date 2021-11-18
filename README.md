@@ -27,7 +27,7 @@
  <a href="#features">Features</a> •
  <a href="#technologies">Technologies</a> • 
  <a href="#installation">Installation</a> • 
- <a href="#getting-started">Get Started</a> • 
+ <a href="#getting-started">Get Started</a>
  
 </p>
 
