@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://cdn-icons-png.flaticon.com/512/410/410909.png"  alt="Logo"  width="240"><br><br>
+	<img src="https://cdn-icons-png.flaticon.com/512/410/410909.png"  alt="Logo"  width="100"><br><br>
     Agenda de Compromissos
 </h1>
 
