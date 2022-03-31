@@ -1,0 +1,6 @@
+br\com\agenda\juiz\AgendaelawApplication.class
+br\com\agenda\juiz\configuration\SwaggerConfig$1.class
+br\com\agenda\juiz\controller\AgendaController.class
+br\com\agenda\juiz\repository\AgendaRepository.class
+br\com\agenda\juiz\configuration\SwaggerConfig.class
+br\com\agenda\juiz\model\Agenda.class
